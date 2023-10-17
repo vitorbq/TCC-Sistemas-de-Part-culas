@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TCC_Particle_System_1Activity!</string>
+    <string name="app_name">TCC Sistema de Partículas Angel Vitor</string>
+    <string name="txt_fg_gravidade">Gravidade</string>
+    <string name="vlr_teste">9.8</string>
+    <string name="app_fa">Simular Fogos Artifício</string>
+    <string name="app_ga">Simular Gota de Água</string>
+    <string name="app_about">Informações TCC Angel Vitor Lopes</string>
+
+</resources>
